@@ -1,0 +1,28 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: 搭建教程
+      link: https://www.antmoe.com/posts/75a6347a/
+      avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+    2:
+      name: 没想到
+      link: https://www.xxxxxxcn/
+      avatar: https://xxxxx/avatar.png
+      descr: test  
+
+
+class2:
+   class_name: 链接无效
+   link_list:
+     1:
+       name: test
+       link: https://blog.xxx.com
+       avatar: https://img.antmoe.com/avatar.png
+       descr: test
+     2:
+       name: test
+       link: https://www.axxxx.cn/
+       avatar: https://img.antmoe.com/avatar.png
+       descr: test
